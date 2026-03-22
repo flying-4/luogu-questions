@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
-
+/*利用程序写多个printf*/
 #define line 22  // 最多读取22行
 #define MAX_length 1000  // 每行最大长度
 
